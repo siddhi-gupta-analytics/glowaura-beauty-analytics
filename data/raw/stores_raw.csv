@@ -1,0 +1,31 @@
+﻿store_id,store_name,store_type,city,state,region,opening_date,store_size_sqft,staff_count
+S01,GlowAura Bandra Flagship,Flagship,Mumbai,Maharashtra,West,2019-03-15,2400,18
+S02,GlowAura Andheri Mall Kiosk,Mall Kiosk,mumbai,Maharashtra,West,01-Sep-2020,16000,
+S03,GlowAura Powai High Street,High Street,Mumbai,Maharashtra,West,2024-06-10,1100,8
+S04,GlowAura Connaught Place Flagship,Flagship,delhi,Delhi,North,2019-08-20,2600,20
+S05,GlowAura Saket Mall Kiosk,MALL KIOSK,Delhi,Delhi,North,2021-02-05,750,6
+S06,GlowAura Lajpat Nagar High Street, High Street,Delhi,Delhi,North,2025-02-14,1000,7
+S07,GlowAura Indiranagar Flagship,FLAGSHIP,Bengaluru,Karnataka,South,,,17
+S08,GlowAura Koramangala High Street,High Street,Bengaluru,Karnataka,South,2021-07-01,1200,9
+S09,GlowAura Whitefield Mall Kiosk,Mall Kiosk,Bengaluru,Karnataka,South,"September 20, 2024",,
+S10,GlowAura Banjara Hills Flagship,Flagship,hyderabad,Telangana,South,2020-01-10,-850,0
+S11,GlowAura Hitech City Mall Kiosk,Mall Kiosk,Hyderabad,Telangana,South,2022-03-03,780,6
+S12,GlowAura T Nagar High Street,High Street,Chennai,Tamil Nadu,South,2020-10-10,1300,10
+S13,GlowAura Express Avenue Kiosk, Mall Kiosk,Chennai,Tamil Nadu,South,2022-05-05,720 sq ft,5
+S14,GlowAura Park Street Flagship,Flagship, Kolkata,West Bengal,East,12.12.2020,1900,14
+S15,GlowAura Salt Lake High Street,High Street,Kolkata,West Bengal,East,2023-03-03,1050,7
+S16,GlowAura Koregaon Park High Street,High Street,Pune,Maharashtra,West,2021-04-04,1250,9
+S17,GlowAura Viman Nagar Mall Kiosk,Mall Kiosk,Pune,Maharashtra,West,08/08/2023,690 sq ft,5
+S18,GlowAura SG Highway Flagship,Flagship,Ahmedabad,Gujarat,West,2021-09-09,1850,13
+S19,GlowAura CG Road High Street,High Street,Ahmedabad,Gujarat,West,2022-11-11,980,7
+S20,GlowAura VR Mall Kiosk,Mall Kiosk,Surat,Gujarat,West,"January 15, 2022",760,5
+S18,GlowAura SG Highway Flagship,Flagship,Ahmedabad,Gujarat,West,2021-09-09,1850,13
+S21,GlowAura MI Road High Street,High Street,JAIPUR,Rajasthan,North,2022-06-06,1100,8
+S22,GlowAura Hazratganj High Street,High Street,Lucknow,Uttar Pradesh,North,02.02.2023,"1,000 sq ft",7
+S23,GlowAura Sector 17 High Street,High Street,Chandigarh,Chandigarh,North,2022-10-10,,8
+S24,GlowAura Treasure Island Kiosk,Mall Kiosk,Indore,Madhya Pradesh,Central,04/04/2023,680,5
+S25,GlowAura Lulu Mall Kiosk,Mall Kiosk,Kochi,Kerala,South,06.06.2023,740,5
+S08,GlowAura Koramangala High Street,High Street,Bengaluru,Karnataka,South,2021-07-01,1200,9
+S26,GlowAura Mumbai Fulfilment Hub,Warehouse, Mumbai,Maharashtra,West,2019-01-01,15000,40
+S27,GlowAura Delhi NCR Fulfilment Hub,Warehouse,Delhi,Delhi,North,2019-01-01,14000,38
+S28,GlowAura Bengaluru Fulfilment Hub, Warehouse,Bengaluru,Karnataka,South,2019-01-01,13500,36
