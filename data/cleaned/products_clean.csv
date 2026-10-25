@@ -1,0 +1,290 @@
+﻿product_id,product_name,brand,category,sub_category,mrp,cost_price,launch_date,is_active
+P001,GlowAura Kesar Compact Powder,GlowAura,Makeup,Compact Powder,409,,2023-11-20,True
+P002,GlowAura Pure Almond Serum,GlowAura Pure,Skincare,Serum,1249,366.36,2025-03-24,True
+P003,GlowAura Pure Aloe Vera Eye Cream,GlowAura Pure,Skincare,Eye Cream,1089,344.57,2023-03-01,True
+P004,DermaDew Cherry Toner,DermaDew,Skincare,Toner,429,169.89,2025-10-30,True
+P005,Velvet Hue Cocoa Lipstick,Velvet Hue,Makeup,Lipstick,209,69.89,2024-07-08,True
+P006,Velvet Hue Glossy Foundation,Velvet Hue,Makeup,Foundation,669,272.67,2023-07-16,True
+P183,Velvet Hue Amber Kajal,Velvet Hue,Makeup,Kajal,289,111.04,2023-09-24,True
+P007,GlowAura Neem Night Cream,GlowAura,Skincare,Night Cream,619,187.37,2022-11-04,True
+P008,GlowAura Green Tea Nail Polish,GlowAura,Makeup,Nail Polish,389,125.69,2025-09-17,True
+P009,DermaDew Amber Face Wash,DermaDew,Skincare,Face Wash,449,183.18,2021-08-25,True
+P010,GlowAura Pure Hyaluronic Hand Cream,GlowAura Pure,Bath & Body,Hand Cream,109,51.61,2021-09-03,True
+P011,GlowAura Pure Rose Body Lotion,GlowAura Pure,Bath & Body,Body Lotion,609,282.56,2026-04-03,True
+P012,Velvet Hue Glossy Blush,Velvet Hue,Makeup,Blush,779,279.43,2026-02-15,True
+P013,Tresses & Co Retinol Hair Mask,Tresses & Co,Haircare,Hair Mask,939,402.04,2021-12-16,True
+P104,GlowAura Pure Sandalwood Face Mask,GlowAura Pure,Skincare,Face Mask,609,210.2,2025-08-10,True
+P014,Velvet Hue Pearl Mascara,Velvet Hue,Makeup,Mascara,529,166.62,2024-03-01,False
+P015,GlowAura Pure Oud Toner,GlowAura Pure,Skincare,Toner,419,,2023-05-19,True
+P016,Aroma Luxe Coconut Perfume,Aroma Luxe,Fragrance,Perfume,1409,342.94,2024-03-28,True
+P017,Aroma Luxe Onion Perfume,Aroma Luxe,Fragrance,Perfume,949,325.96,2025-12-05,True
+P018,Tresses & Co Oud Shampoo,Tresses & Co,Haircare,Shampoo,209,83.4,2025-06-25,False
+P019,Aroma Luxe Ocean Body Mist,Aroma Luxe,Fragrance,Body Mist,629,196.11,2026-04-30,True
+P020,GlowAura Pure Sandalwood Hair Serum,GlowAura Pure,Haircare,Hair Serum,719,226.23,2023-01-29,True
+P021,Velvet Hue Retinol Eyeshadow Palette,Velvet Hue,Makeup,Eyeshadow Palette,1399,434.09,2021-06-13,True
+P022,Tresses & Co Sunset Hair Oil,Tresses & Co,Haircare,Hair Oil,589,249.17,2024-10-23,True
+P023,GlowAura Sandalwood Foundation,GlowAura,Makeup,Foundation,1079,381.43,2024-09-28,True
+P024,DermaDew Peach Night Cream,DermaDew,Skincare,Night Cream,499,146.81,2021-02-10,True
+P025,GlowAura Pure Lavender Face Mask,GlowAura Pure,Skincare,Face Mask,299,104.03,2025-04-26,True
+P026,GlowAura Silk Mascara,GlowAura,Makeup,Mascara,249,77.73,2023-02-28,True
+P027,GlowAura Pure Green Tea Body Lotion,GlowAura Pure,Bath & Body,Body Lotion,389,133.52,2023-09-18,True
+P028,GlowAura Tea Tree Toner,GlowAura,Skincare,Toner,539,166.21,2023-10-29,True
+P029,Tresses & Co Hyaluronic Hair Oil,Tresses & Co,Haircare,Hair Oil,459,194.23,2025-09-07,True
+P030,Aroma Luxe Berry Body Mist,Aroma Luxe,Fragrance,Body Mist,269,71.31,2024-10-06,True
+P031,Aroma Luxe Vitamin C Body Lotion,Aroma Luxe,Bath & Body,Body Lotion,619,217.4,2024-05-07,True
+P032,GlowAura Shea Butter Lipstick,GlowAura,Makeup,Lipstick,779,304.35,2026-01-28,True
+P033,Aroma Luxe Radiance Body Lotion,Aroma Luxe,Bath & Body,Body Lotion,529,206.03,2026-02-10,True
+P034,DermaDew Ocean Moisturizer,DermaDew,Skincare,Moisturizer,479,160.07,2025-09-15,True
+P035,GlowAura Green Tea Lipstick,GlowAura,Makeup,Lipstick,439,117.77,2022-10-30,True
+P036,DermaDew Velvet Toner,DermaDew,Skincare,Toner,539,218.83,,True
+P037,GlowAura Pure Silk Conditioner,GlowAura Pure,Haircare,Conditioner,599,242.95,2022-12-04,True
+P038,Velvet Hue Saffron Lipstick,Velvet Hue,Makeup,Lipstick,739,196.27,2025-12-08,True
+P039,GlowAura Honey Lipstick,GlowAura,Makeup,Lipstick,699,283.13,2021-08-19,True
+P040,Aroma Luxe Pearl Body Wash,Aroma Luxe,Bath & Body,Body Wash,249,92.19,2022-03-25,True
+P041,GlowAura Pure Glossy Body Scrub,GlowAura Pure,Bath & Body,Body Scrub,559,265.86,2024-06-03,True
+P042,GlowAura Charcoal Foundation,GlowAura,Makeup,Foundation,549,186.86,2024-06-21,True
+P043,GlowAura Rose Primer,GlowAura,Makeup,Primer,839,348.04,2026-01-11,True
+P044,GlowAura Peach Kajal,GlowAura,Makeup,Kajal,399,119.32,2025-01-05,False
+P045,Velvet Hue Oud Blush,Velvet Hue,Makeup,Blush,319,111.38,2021-10-11,True
+P046,Tresses & Co Velvet Hair Mask,Tresses & Co,Haircare,Hair Mask,549,226.27,2025-06-08,True
+P047,GlowAura Retinol Kajal,GlowAura,Makeup,Kajal,399,147.7,2026-01-20,True
+P048,Aroma Luxe Hyaluronic Deodorant,Aroma Luxe,Fragrance,Deodorant,369,120.08,2024-01-02,True
+P049,Velvet Hue Peach Eyeshadow Palette,Velvet Hue,Makeup,Eyeshadow Palette,499,173.87,2025-02-24,True
+P050,Aroma Luxe Velvet Body Mist,Aroma Luxe,Fragrance,Body Mist,369,118.17,2025-02-21,True
+P051,GlowAura Saffron Nail Polish,GlowAura,Makeup,Nail Polish,399,118.72,2023-03-05,True
+P052,Aroma Luxe Oud Perfume,Aroma Luxe,Fragrance,Perfume,2489,,2025-08-09,True
+P053,GlowAura Berry Nail Polish,GlowAura,Makeup,Nail Polish,129,44.9,2022-06-22,True
+P054,Aroma Luxe Argan Perfume,Aroma Luxe,Fragrance,Perfume,1009,,2021-02-11,True
+P055,GlowAura Pure Argan Eye Cream,GlowAura Pure,Skincare,Eye Cream,1239,472.94,2024-02-19,True
+P056,GlowAura Pure Ocean Hair Oil,GlowAura Pure,Haircare,Hair Oil,549,178.3,2025-12-21,True
+P057,GlowAura Pure Almond Face Wash,GlowAura Pure,Skincare,Face Wash,309,98.41,2022-11-09,True
+P058,GlowAura Pure Silk Serum,GlowAura Pure,Skincare,Serum,1379,436.71,2023-07-03,True
+P059,Aroma Luxe Charcoal Deodorant,Aroma Luxe,Fragrance,Deodorant,369,111.12,2024-11-16,True
+P060,Velvet Hue Sandalwood Blush,Velvet Hue,Makeup,Blush,489,188.33,2025-01-25,True
+P061,GlowAura Pure Nude Hair Mask,GlowAura Pure,Haircare,Hair Mask,669,286.23,2026-04-18,True
+P062,Tresses & Co Peach Hair Serum,Tresses & Co,Haircare,Hair Serum,699,237.64,2026-04-24,True
+P063,GlowAura Pure Saffron Hair Serum,GlowAura Pure,Haircare,Hair Serum,749,279.14,2021-09-27,True
+P227,GlowAura Pure Argan Hair Serum,GlowAura Pure,Haircare,Hair Serum,639,274.85,2023-10-02,True
+P064,GlowAura Sandalwood Kajal,GlowAura,Makeup,Kajal,239,83.47,2025-11-27,False
+P065,GlowAura Glossy Night Cream,GlowAura,Skincare,Night Cream,909,347.45,2022-03-16,True
+P066,GlowAura Pure Green Tea Face Mask,GlowAura Pure,Skincare,Face Mask,199,,2026-02-17,True
+P067,GlowAura Pure Pearl Lip Balm,GlowAura Pure,Bath & Body,Lip Balm,189,58.62,2021-11-27,True
+P068,Velvet Hue Green Tea Lipstick,Velvet Hue,Makeup,Lipstick,409,106.23,2025-11-24,True
+P069,GlowAura Ocean Foundation,GlowAura,Makeup,Foundation,789,317.17,2023-10-03,True
+P070,Aroma Luxe Aloe Vera Body Mist,Aroma Luxe,Fragrance,Body Mist,309,112.58,2021-12-29,False
+P071,Aroma Luxe Green Tea Perfume,Aroma Luxe,Fragrance,Perfume,2149,795.42,2023-12-16,True
+P072,GlowAura Charcoal Lipstick,GlowAura,Makeup,Lipstick,559,,2022-11-26,True
+P073,GlowAura Radiance Eye Cream,GlowAura,Skincare,Eye Cream,879,253.37,2023-11-17,True
+P074,DermaDew Charcoal Serum,DermaDew,Skincare,Serum,789,324.79,2024-12-15,True
+P075,GlowAura Coconut Sunscreen,GlowAura,Skincare,Sunscreen,549,213.2,2026-01-23,True
+P076,Tresses & Co Argan Shampoo,Tresses & Co,Haircare,Shampoo,349,162.75,2024-07-02,True
+P077,GlowAura Glossy Face Wash,GlowAura,Skincare,Face Wash,399,118.06,2022-10-16,False
+P078,GlowAura Pure Midnight Hair Serum,GlowAura Pure,Haircare,Hair Serum,429,,2021-11-03,True
+P079,Aroma Luxe Cocoa Hand Cream,Aroma Luxe,Bath & Body,Hand Cream,269,128.09,2022-09-23,True
+P080,GlowAura Argan Eyeshadow Palette,GlowAura,Makeup,Eyeshadow Palette,1269,401.21,2024-05-06,True
+P081,Velvet Hue Matte Primer,Velvet Hue,Makeup,Primer,439,132.52,2023-07-07,True
+P082,GlowAura Cherry Eyeshadow Palette,GlowAura,Makeup,Eyeshadow Palette,649,209.53,2022-03-01,True
+P083,Aroma Luxe Rose Perfume,Aroma Luxe,Fragrance,Perfume,1259,434.53,,True
+P084,GlowAura Amber Sunscreen,GlowAura,Skincare,Sunscreen,609,247.12,2021-03-26,False
+P085,Tresses & Co Honey Hair Mask,Tresses & Co,Haircare,Hair Mask,679,226.99,2022-04-12,True
+P086,Velvet Hue Onion Mascara,Velvet Hue,Makeup,Mascara,539,201.12,,True
+P087,GlowAura Pure Rose Hair Serum,GlowAura Pure,Haircare,Hair Serum,649,,2023-04-07,True
+P088,Velvet Hue Rose Mascara,Velvet Hue,Makeup,Mascara,579,221.18,2024-07-12,True
+P089,Velvet Hue Midnight Primer,Velvet Hue,Makeup,Primer,769,318.17,2022-12-09,True
+P090,GlowAura Pure Aloe Vera Body Wash,GlowAura Pure,Bath & Body,Body Wash,179,87.25,2022-07-29,True
+P091,GlowAura Rose Moisturizer,GlowAura,Skincare,Moisturizer,259,99.13,2021-07-05,True
+P092,GlowAura Pure Vitamin C Face Wash,GlowAura Pure,Skincare,Face Wash,479,159.67,2022-10-01,True
+P093,Velvet Hue Vitamin C Mascara,Velvet Hue,Makeup,Mascara,749,191.3,2021-07-25,True
+P094,Tresses & Co Midnight Shampoo,Tresses & Co,Haircare,Shampoo,539,253.75,2021-01-24,True
+P095,GlowAura Cocoa Nail Polish,GlowAura,Makeup,Nail Polish,199,81.92,2025-11-09,True
+P096,GlowAura Pure Velvet Shampoo,GlowAura Pure,Haircare,Shampoo,499,223.11,2024-04-17,True
+P097,GlowAura Turmeric Lipstick,GlowAura,Makeup,Lipstick,729,268.83,2023-11-29,True
+P098,GlowAura Kesar Lipstick,GlowAura,Makeup,Lipstick,279,,2023-12-17,True
+P099,GlowAura Pure Argan Face Wash,GlowAura Pure,Skincare,Face Wash,399,151.06,2024-06-07,True
+P100,DermaDew Midnight Serum,DermaDew,Skincare,Serum,539,223.29,2022-06-18,True
+P101,GlowAura Glossy Serum,GlowAura,Skincare,Serum,1399,467.54,2022-06-19,True
+P102,DermaDew Silk Face Mask,DermaDew,Skincare,Face Mask,689,254.07,2024-11-06,True
+P123,DermaDew Green Tea Moisturizer,DermaDew,Skincare,Moisturizer,779,235.97,2025-04-27,True
+P103,Aroma Luxe Cherry Body Mist,Aroma Luxe,Fragrance,Body Mist,649,151.36,2026-04-24,True
+P105,Tresses & Co Kesar Hair Mask,Tresses & Co,Haircare,Hair Mask,619,198.17,2026-03-18,True
+P106,Tresses & Co Amber Shampoo,Tresses & Co,Haircare,Shampoo,219,,,True
+P107,Velvet Hue Berry Nail Polish,Velvet Hue,Makeup,Nail Polish,179,73.36,2025-05-27,True
+P108,Tresses & Co Niacinamide Hair Mask,Tresses & Co,Haircare,Hair Mask,909,378.38,2022-12-03,True
+P109,Velvet Hue Jasmine Kajal,Velvet Hue,Makeup,Kajal,309,124.95,2023-10-03,True
+P110,Tresses & Co Aloe Vera Hair Mask,Tresses & Co,Haircare,Hair Mask,959,398.57,2024-07-06,True
+P111,GlowAura Pure Tea Tree Shampoo,GlowAura Pure,Haircare,Shampoo,349,146.06,2025-01-05,True
+P112,GlowAura Pure Mint Body Scrub,GlowAura Pure,Bath & Body,Body Scrub,659,,2025-02-15,True
+P113,Tresses & Co Glossy Conditioner,Tresses & Co,Haircare,Conditioner,619,226.8,2025-03-15,True
+P114,GlowAura Pure Almond Night Cream,GlowAura Pure,Skincare,Night Cream,1059,385.8,2025-02-22,True
+P115,GlowAura Oud Moisturizer,GlowAura,Skincare,Moisturizer,259,85.63,2026-05-13,True
+P116,GlowAura Niacinamide Serum,GlowAura,Skincare,Serum,1019,,2022-11-02,True
+P117,GlowAura Pure Pearl Face Wash,GlowAura Pure,Skincare,Face Wash,269,105.17,2025-12-16,False
+P118,GlowAura Pure Pearl Hair Oil,GlowAura Pure,Haircare,Hair Oil,579,232.18,2025-09-15,False
+P119,Velvet Hue Nude Blush,Velvet Hue,Makeup,Blush,649,248.84,2025-09-04,True
+P120,GlowAura Niacinamide Moisturizer,GlowAura,Skincare,Moisturizer,869,374.56,2025-03-29,True
+P121,Tresses & Co Berry Hair Mask,Tresses & Co,Haircare,Hair Mask,689,273.7,2022-12-17,True
+P122,GlowAura Almond Face Wash,GlowAura,Skincare,Face Wash,349,122.65,2024-05-28,True
+P124,Velvet Hue Silk Foundation,Velvet Hue,Makeup,Foundation,709,235.63,2021-06-05,True
+P125,DermaDew Turmeric Face Mask,DermaDew,Skincare,Face Mask,289,,2021-03-24,True
+P126,GlowAura Pure Nude Body Lotion,GlowAura Pure,Bath & Body,Body Lotion,249,76.02,2021-11-21,True
+P127,Velvet Hue Sandalwood Lipstick,Velvet Hue,Makeup,Lipstick,669,274.68,2023-03-06,False
+P128,DermaDew Rose Serum,DermaDew,Skincare,Serum,1129,377.83,2023-12-27,True
+P129,GlowAura Silk Lipstick,GlowAura,Makeup,Lipstick,809,225.28,2024-09-04,True
+P130,GlowAura Pure Ocean Hand Cream,GlowAura Pure,Bath & Body,Hand Cream,289,99.08,2021-02-12,True
+P131,GlowAura Turmeric Eyeshadow Palette,GlowAura,Makeup,Eyeshadow Palette,889,313.59,2021-04-21,True
+P132,GlowAura Charcoal Compact Powder,GlowAura,Makeup,Compact Powder,449,185.03,2023-12-11,True
+P133,GlowAura Oud Primer,GlowAura,Makeup,Primer,639,193.15,2024-02-09,True
+P134,GlowAura Saffron Sunscreen,GlowAura,Skincare,Sunscreen,419,187.98,2021-08-24,True
+P135,Tresses & Co Radiance Shampoo,Tresses & Co,Haircare,Shampoo,679,222.7,2025-09-29,True
+P136,DermaDew Lavender Serum,DermaDew,Skincare,Serum,579,241.99,2026-01-12,True
+P137,GlowAura Pure Amber Night Cream,GlowAura Pure,Skincare,Night Cream,699,202.75,2022-04-10,True
+P138,Tresses & Co Tea Tree Conditioner,Tresses & Co,Haircare,Conditioner,569,179.24,2025-09-25,True
+P139,Velvet Hue Velvet Compact Powder,Velvet Hue,Makeup,Compact Powder,369,,2026-03-27,True
+P140,GlowAura Pure Green Tea Toner,GlowAura Pure,Skincare,Toner,599,182.95,2021-11-18,True
+P141,DermaDew Onion Night Cream,DermaDew,Skincare,Night Cream,949,319.1,2023-09-18,True
+P142,Tresses & Co Glossy Hair Oil,Tresses & Co,Haircare,Hair Oil,299,136.86,2026-03-03,True
+P143,GlowAura Pure Aloe Vera Conditioner,GlowAura Pure,Haircare,Conditioner,239,97.24,2026-01-12,True
+P144,GlowAura Pure Kesar Hair Oil,GlowAura Pure,Haircare,Hair Oil,419,141.1,2021-09-30,True
+P145,GlowAura Pure Neem Sunscreen,GlowAura Pure,Skincare,Sunscreen,789,295.09,2024-02-24,True
+P146,Velvet Hue Radiance Nail Polish,Velvet Hue,Makeup,Nail Polish,239,75.61,2025-11-17,True
+P147,Velvet Hue Neem Foundation,Velvet Hue,Makeup,Foundation,689,267.3,2023-10-12,True
+P148,Aroma Luxe Niacinamide Body Lotion,Aroma Luxe,Bath & Body,Body Lotion,229,111.01,2023-12-27,True
+P149,Tresses & Co Argan Conditioner,Tresses & Co,Haircare,Conditioner,459,184.25,2026-02-03,True
+P150,GlowAura Cocoa Mascara,GlowAura,Makeup,Mascara,399,167.57,2024-08-02,True
+P151,GlowAura Ocean Face Mask,GlowAura,Skincare,Face Mask,259,103.23,2021-12-08,True
+P152,GlowAura Pure Aloe Vera Face Mask,GlowAura Pure,Skincare,Face Mask,289,122.28,2021-04-11,True
+P153,Aroma Luxe Amber Perfume,Aroma Luxe,Fragrance,Perfume,1209,291.61,2024-09-06,True
+P154,Velvet Hue Radiance Lipstick,Velvet Hue,Makeup,Lipstick,479,174.39,2023-03-02,True
+P155,GlowAura Rose Kajal,GlowAura,Makeup,Kajal,499,126.87,2022-08-27,True
+P156,GlowAura Pure Saffron Body Wash,GlowAura Pure,Bath & Body,Body Wash,429,130.67,2025-02-06,True
+P157,Aroma Luxe Green Tea Body Wash,Aroma Luxe,Bath & Body,Body Wash,169,77.66,2025-06-13,True
+P158,GlowAura Hyaluronic Primer,GlowAura,Makeup,Primer,489,151.62,2025-02-23,True
+P159,Aroma Luxe Tea Tree Body Scrub,Aroma Luxe,Bath & Body,Body Scrub,519,158.8,2023-05-24,True
+P160,Tresses & Co Neem Shampoo,Tresses & Co,Haircare,Shampoo,249,106.17,2025-05-27,True
+P161,GlowAura Rose Lipstick,GlowAura,Makeup,Lipstick,479,134.22,2022-04-07,True
+P162,Velvet Hue Kesar Foundation,Velvet Hue,Makeup,Foundation,369,102.49,2024-09-20,True
+P163,GlowAura Pure Sandalwood Hair Oil,GlowAura Pure,Haircare,Hair Oil,289,,2023-03-07,True
+P164,GlowAura Rose Face Mask,GlowAura,Skincare,Face Mask,669,300.99,2021-04-03,True
+P165,GlowAura Pure Saffron Shampoo,GlowAura Pure,Haircare,Shampoo,599,193.61,2025-04-17,True
+P166,GlowAura Pure Shea Butter Face Wash,GlowAura Pure,Skincare,Face Wash,319,100.68,2023-05-21,True
+P167,GlowAura Green Tea Moisturizer,GlowAura,Skincare,Moisturizer,679,253.15,2024-07-02,True
+P168,Tresses & Co Vitamin C Hair Oil,Tresses & Co,Haircare,Hair Oil,229,107.38,2026-05-21,True
+P169,Velvet Hue Cherry Kajal,Velvet Hue,Makeup,Kajal,289,,2025-03-02,True
+P170,GlowAura Pure Hyaluronic Hair Oil,GlowAura Pure,Haircare,Hair Oil,409,173.39,2025-01-12,True
+P171,Velvet Hue Green Tea Foundation,Velvet Hue,Makeup,Foundation,459,182.05,2022-03-04,True
+P172,Velvet Hue Niacinamide Eyeshadow Palette,Velvet Hue,Makeup,Eyeshadow Palette,1489,546.18,2025-05-12,True
+P173,GlowAura Radiance Compact Powder,GlowAura,Makeup,Compact Powder,349,130.19,2025-06-10,True
+P174,GlowAura Pure Berry Lip Balm,GlowAura Pure,Bath & Body,Lip Balm,119,50.81,2021-09-20,True
+P175,GlowAura Pure Retinol Toner,GlowAura Pure,Skincare,Toner,259,101.6,2024-06-19,True
+P176,GlowAura Sandalwood Serum,GlowAura,Skincare,Serum,1459,462.22,2021-03-30,True
+P177,Tresses & Co Sandalwood Hair Serum,Tresses & Co,Haircare,Hair Serum,889,387.19,2023-02-17,True
+P178,GlowAura Amber Primer,GlowAura,Makeup,Primer,479,178.21,2024-04-05,True
+P179,Aroma Luxe Berry Perfume,Aroma Luxe,Fragrance,Perfume,1519,457.56,2022-09-30,True
+P180,Aroma Luxe Shea Butter Perfume,Aroma Luxe,Fragrance,Perfume,629,224.93,2024-03-08,False
+P181,GlowAura Pure Peach Body Wash,GlowAura Pure,Bath & Body,Body Wash,349,136.77,2026-04-02,True
+P182,Aroma Luxe Vitamin C Perfume,Aroma Luxe,Fragrance,Perfume,679,190.52,2024-04-15,True
+P184,Velvet Hue Charcoal Primer,Velvet Hue,Makeup,Primer,729,279.69,2025-09-14,True
+P185,Tresses & Co Cherry Conditioner,Tresses & Co,Haircare,Conditioner,359,114.59,2025-06-22,True
+P186,GlowAura Hydra Compact Powder,GlowAura,Makeup,Compact Powder,539,155.92,2021-11-18,True
+P187,GlowAura Pure Lavender Serum,GlowAura Pure,Skincare,Serum,879,282.08,,True
+P188,DermaDew Amber Night Cream,DermaDew,Skincare,Night Cream,679,237.63,2025-04-20,True
+P189,GlowAura Green Tea Blush,GlowAura,Makeup,Blush,439,151.79,2023-08-31,True
+P190,GlowAura Ocean Nail Polish,GlowAura,Makeup,Nail Polish,119,41.02,2021-10-25,True
+P191,Velvet Hue Mint Compact Powder,Velvet Hue,Makeup,Compact Powder,499,193.05,2022-06-24,True
+P192,GlowAura Rose Sunscreen,GlowAura,Skincare,Sunscreen,429,187.15,2022-07-18,True
+P193,GlowAura Pure Ocean Hair Serum,GlowAura Pure,Haircare,Hair Serum,479,172.1,2024-03-08,True
+P194,Aroma Luxe Matte Deodorant,Aroma Luxe,Fragrance,Deodorant,249,61.25,2023-01-04,True
+P195,GlowAura Velvet Face Mask,GlowAura,Skincare,Face Mask,449,179.74,2026-02-09,True
+P196,GlowAura Pure Silk Sunscreen,GlowAura Pure,Skincare,Sunscreen,479,169.56,2024-09-19,False
+P197,GlowAura Pure Kesar Body Lotion,GlowAura Pure,Bath & Body,Body Lotion,479,152.18,2021-05-15,True
+P198,GlowAura Berry Sunscreen,GlowAura,Skincare,Sunscreen,399,146.65,2022-02-13,True
+P199,Aroma Luxe Sandalwood Body Wash,Aroma Luxe,Bath & Body,Body Wash,429,148.37,2024-11-09,True
+P200,GlowAura Silk Toner,GlowAura,Skincare,Toner,389,140.27,2021-12-05,True
+P201,Velvet Hue Neem Blush,Velvet Hue,Makeup,Blush,329,110.01,2022-11-22,False
+P202,DermaDew Shea Butter Face Mask,DermaDew,Skincare,Face Mask,409,166.42,2025-12-27,True
+P203,GlowAura Midnight Moisturizer,GlowAura,Skincare,Moisturizer,469,184.63,2025-06-25,True
+P204,GlowAura Nude Mascara,GlowAura,Makeup,Mascara,719,233.51,2025-05-13,True
+P205,GlowAura Saffron Blush,GlowAura,Makeup,Blush,699,272.76,2022-07-31,True
+P206,Velvet Hue Argan Foundation,Velvet Hue,Makeup,Foundation,859,307.4,2021-12-20,True
+P207,GlowAura Pure Hydra Hair Serum,GlowAura Pure,Haircare,Hair Serum,479,152.76,2025-07-01,True
+P208,GlowAura Pure Honey Night Cream,GlowAura Pure,Skincare,Night Cream,449,160.17,2025-07-12,True
+P209,Aroma Luxe Ocean Deodorant,Aroma Luxe,Fragrance,Deodorant,179,41.78,2021-04-01,True
+P210,Velvet Hue Amber Foundation,Velvet Hue,Makeup,Foundation,1179,336.73,2024-03-31,True
+P211,Velvet Hue Charcoal Lipstick,Velvet Hue,Makeup,Lipstick,579,241.97,2022-03-07,True
+P212,GlowAura Pure Aloe Vera Moisturizer,GlowAura Pure,Skincare,Moisturizer,479,193.57,2025-01-13,True
+P213,GlowAura Pure Honey Moisturizer,GlowAura Pure,Skincare,Moisturizer,829,361.55,2021-12-11,True
+P214,GlowAura Pure Retinol Sunscreen,GlowAura Pure,Skincare,Sunscreen,789,288.76,2024-01-22,True
+P215,GlowAura Pure Mint Shampoo,GlowAura Pure,Haircare,Shampoo,549,191.29,2025-04-28,True
+P216,GlowAura Pure Saffron Hair Oil,GlowAura Pure,Haircare,Hair Oil,189,73.58,2022-04-13,True
+P217,Aroma Luxe Pearl Perfume,Aroma Luxe,Fragrance,Perfume,2319,578.52,2025-11-04,True
+P218,GlowAura Amber Kajal,GlowAura,Makeup,Kajal,479,,2024-10-12,True
+P219,GlowAura Retinol Moisturizer,GlowAura,Skincare,Moisturizer,609,194.51,2021-06-17,True
+P220,Velvet Hue Cherry Blush,Velvet Hue,Makeup,Blush,719,290.03,2025-01-21,True
+P221,GlowAura Pure Lavender Shampoo,GlowAura Pure,Haircare,Shampoo,329,146.01,2021-08-30,False
+P222,GlowAura Green Tea Night Cream,GlowAura,Skincare,Night Cream,519,219.65,2022-03-22,True
+P223,GlowAura Cherry Compact Powder,GlowAura,Makeup,Compact Powder,239,94.86,2024-11-12,False
+P224,GlowAura Onion Eyeshadow Palette,GlowAura,Makeup,Eyeshadow Palette,909,297.87,2021-11-12,True
+P225,GlowAura Vitamin C Mascara,GlowAura,Makeup,Mascara,769,253.39,2024-10-06,True
+P226,Tresses & Co Mint Hair Oil,Tresses & Co,Haircare,Hair Oil,349,123.93,2021-02-19,True
+P228,GlowAura Amber Eye Cream,GlowAura,Skincare,Eye Cream,539,211.64,2021-03-09,True
+P229,Aroma Luxe Shea Butter Lip Balm,Aroma Luxe,Bath & Body,Lip Balm,139,49.27,2021-12-18,True
+P230,GlowAura Hyaluronic Serum,GlowAura,Skincare,Serum,1459,416.08,2024-02-22,True
+P231,Aroma Luxe Charcoal Perfume,Aroma Luxe,Fragrance,Perfume,839,302.32,2023-11-28,True
+P232,GlowAura Argan Serum,GlowAura,Skincare,Serum,1479,483.38,2025-08-29,True
+P233,Aroma Luxe Midnight Perfume,Aroma Luxe,Fragrance,Perfume,2389,877.97,2026-01-22,False
+P234,GlowAura Midnight Face Wash,GlowAura,Skincare,Face Wash,199,70.87,2026-06-05,True
+P235,Velvet Hue Nude Nail Polish,Velvet Hue,Makeup,Nail Polish,319,98.32,2025-10-30,True
+P236,GlowAura Pure Shea Butter Moisturizer,GlowAura Pure,Skincare,Moisturizer,639,272.02,2021-05-16,True
+P237,Aroma Luxe Silk Perfume,Aroma Luxe,Fragrance,Perfume,799,298.69,2024-07-26,True
+P238,GlowAura Pure Amber Hair Serum,GlowAura Pure,Haircare,Hair Serum,339,118.25,2021-05-20,True
+P239,GlowAura Rose Mascara,GlowAura,Makeup,Mascara,389,129.94,2025-02-09,True
+P240,Aroma Luxe Niacinamide Body Scrub,Aroma Luxe,Bath & Body,Body Scrub,529,195.53,2021-01-08,True
+P241,Tresses & Co Lavender Hair Mask,Tresses & Co,Haircare,Hair Mask,419,153.2,2023-09-05,True
+P242,Velvet Hue Berry Eyeshadow Palette,Velvet Hue,Makeup,Eyeshadow Palette,1449,462.41,2023-11-17,False
+P243,Velvet Hue Coconut Lipstick,Velvet Hue,Makeup,Lipstick,789,278.05,2026-02-19,True
+P244,GlowAura Niacinamide Nail Polish,GlowAura,Makeup,Nail Polish,329,85.09,2022-03-18,True
+P245,Tresses & Co Glossy Hair Mask,Tresses & Co,Haircare,Hair Mask,879,404.26,2021-11-04,True
+P246,Aroma Luxe Vitamin C Body Mist,Aroma Luxe,Fragrance,Body Mist,509,138.79,2022-07-16,True
+P247,GlowAura Onion Nail Polish,GlowAura,Makeup,Nail Polish,119,30.99,2025-10-17,True
+P248,GlowAura Neem Compact Powder,GlowAura,Makeup,Compact Powder,529,142.91,2022-09-08,True
+P249,DermaDew Saffron Toner,DermaDew,Skincare,Toner,459,203.48,2026-02-25,True
+P250,Aroma Luxe Shea Butter Deodorant,Aroma Luxe,Fragrance,Deodorant,359,81.88,2022-11-15,True
+P251,GlowAura Silk Serum,GlowAura,Skincare,Serum,1109,,2024-02-29,True
+P252,Tresses & Co Shea Butter Hair Mask,Tresses & Co,Haircare,Hair Mask,529,200.4,2022-10-20,True
+P253,GlowAura Sunset Face Wash,GlowAura,Skincare,Face Wash,429,150.48,2025-05-14,True
+P254,Aroma Luxe Argan Lip Balm,Aroma Luxe,Bath & Body,Lip Balm,239,82.47,2024-07-16,True
+P255,GlowAura Charcoal Eye Cream,GlowAura,Skincare,Eye Cream,799,,2024-04-12,True
+P256,Aroma Luxe Almond Body Mist,Aroma Luxe,Fragrance,Body Mist,619,223.67,2021-11-11,True
+P257,Velvet Hue Matte Lipstick,Velvet Hue,Makeup,Lipstick,499,192.44,2022-03-08,False
+P258,Tresses & Co Niacinamide Conditioner,Tresses & Co,Haircare,Conditioner,559,236.79,2024-10-29,True
+P259,Aroma Luxe Neem Deodorant,Aroma Luxe,Fragrance,Deodorant,259,83.67,2021-04-19,True
+P260,Aroma Luxe Shea Butter Hand Cream,Aroma Luxe,Bath & Body,Hand Cream,259,79.03,2023-09-22,True
+P261,GlowAura Pure Onion Conditioner,GlowAura Pure,Haircare,Conditioner,259,123.19,2024-03-22,True
+P262,GlowAura Nude Compact Powder,GlowAura,Makeup,Compact Powder,539,215.44,2022-12-20,True
+P263,Aroma Luxe Lavender Deodorant,Aroma Luxe,Fragrance,Deodorant,359,130.41,2024-03-02,True
+P264,GlowAura Ocean Sunscreen,GlowAura,Skincare,Sunscreen,399,149.12,2022-04-25,True
+P265,GlowAura Pure Jasmine Hair Oil,GlowAura Pure,Haircare,Hair Oil,459,197.76,2026-02-25,True
+P266,Tresses & Co Almond Conditioner,Tresses & Co,Haircare,Conditioner,449,140.97,2025-08-14,True
+P267,Aroma Luxe Retinol Body Mist,Aroma Luxe,Fragrance,Body Mist,749,201.69,2024-07-01,True
+P268,Velvet Hue Charcoal Kajal,Velvet Hue,Makeup,Kajal,169,63.8,2024-09-11,True
+P269,Tresses & Co Tea Tree Shampoo,Tresses & Co,Haircare,Shampoo,389,178.29,2022-02-28,True
+P270,GlowAura Peach Nail Polish,GlowAura,Makeup,Nail Polish,279,91.56,2021-02-16,True
+P271,GlowAura Pure Midnight Conditioner,GlowAura Pure,Haircare,Conditioner,509,166.25,2021-08-19,True
+P272,DermaDew Mint Sunscreen,DermaDew,Skincare,Sunscreen,539,163.58,2022-12-16,True
+P273,GlowAura Pure Peach Face Wash,GlowAura Pure,Skincare,Face Wash,339,149.49,2025-05-09,True
+P274,Aroma Luxe Hyaluronic Body Mist,Aroma Luxe,Fragrance,Body Mist,649,172.51,2025-01-28,True
+P275,DermaDew Coconut Eye Cream,DermaDew,Skincare,Eye Cream,519,212.47,2023-02-28,True
+P276,DermaDew Niacinamide Face Wash,DermaDew,Skincare,Face Wash,449,161.39,2021-06-09,True
+P277,DermaDew Velvet Eye Cream,DermaDew,Skincare,Eye Cream,1209,412.42,2025-06-06,True
+P278,Velvet Hue Amber Primer,Velvet Hue,Makeup,Primer,939,329.82,2021-09-25,True
+P279,GlowAura Pure Silk Hair Serum,GlowAura Pure,Haircare,Hair Serum,489,206.51,2025-06-29,True
+P280,GlowAura Onion Sunscreen,GlowAura,Skincare,Sunscreen,729,274.69,,True
+P281,GlowAura Pure Saffron Eye Cream,GlowAura Pure,Skincare,Eye Cream,989,378.68,2025-11-01,True
+P282,GlowAura Charcoal Moisturizer,GlowAura,Skincare,Moisturizer,559,,2025-06-28,True
+P283,Tresses & Co Jasmine Shampoo,Tresses & Co,Haircare,Shampoo,319,107.63,2023-12-29,True
+P284,GlowAura Argan Foundation,GlowAura,Makeup,Foundation,959,395.41,2026-02-11,True
+P285,Tresses & Co Aloe Vera Hair Oil,Tresses & Co,Haircare,Hair Oil,389,161.15,2024-04-23,True
+P286,GlowAura Ocean Toner,GlowAura,Skincare,Toner,289,121.95,2023-01-18,False
+P287,GlowAura Pure Amber Serum,GlowAura Pure,Skincare,Serum,1159,443.61,2022-11-19,True
+P288,Tresses & Co Radiance Conditioner,Tresses & Co,Haircare,Conditioner,469,169.22,2021-04-29,True
+P289,GlowAura Pure Neem Shampoo,GlowAura Pure,Haircare,Shampoo,279,129.42,2023-01-23,True

@@ -1,0 +1,30 @@
+﻿campaign_id,campaign_name,channel,start_date,end_date,budget,target_category,target_audience
+CMP001,Republic Day Glow Sale 2024,Festive Sale,2024-01-20,,20000,All,All Customers
+CMP002,Valentine's Glow-Up 2024,Instagram,2024-02-05,2024-02-14,20000,Makeup,Women 18-30
+CMP003,Summer Sunscreen Drive 2024,Google Ads,2024-04-01,2024-04-30,45000,Skincare,All Customers
+CMP004,Mother's Day Pamper 2024,Email,2024-05-04,2024-05-12,10000,Bath & Body,Existing Customers
+CMP005,Monsoon Hair Rescue 2024,Influencer,2024-07-01,2024-07-31,50000,Haircare,Women 18-30
+CMP011,Valentine's Glow-Up 2025,Instagram,2025-02-05,2025-02-14,15000,Makeup,Women 18-30
+CMP006,Raksha Bandhan Gifting 2024,Instagram,2024-08-12,2024-08-19,15000,Fragrance,All Customers
+CMP007,Festive Beauty Fest 2024,Festive Sale,2024-10-05,2024-11-05,85000,All,All Customers
+CMP008,Black Friday Beauty Blast 2024,Google Ads,2024-11-22,2024-11-30,40000,All,All Customers
+CMP009,Winter Skincare Care 2024,Email,2024-12-01,2024-12-20,15000,Skincare,Existing Customers
+CMP010,Republic Day Glow Sale 2025,Festive Sale,2025-01-20,2025-01-28,15000,All,All Customers
+CMP012,Weekend In-Store Bonanza 2025,In-Store Promo,2025-03-07,2025-03-16,10000,All,Existing Customers
+CMP013,Summer Sunscreen Drive 2025,Google Ads,2025-04-01,,75000,Skincare,All Customers
+CMP014,Mother's Day Pamper 2025,Email,2025-05-03,2025-05-11,10000,Bath & Body,Existing Customers
+CMP015,Monsoon Hair Rescue 2025,Influencer,2025-07-01,2025-07-31,30000,Haircare,Women 18-30
+CMP016,Brand Launch Blitz 2025,TV/OTT,2025-09-01,2025-09-30,,All,All Customers
+CMP017,Diwali Glow Fest 2025,Festive Sale,2025-10-06,2025-11-04,95000,All,All Customers
+CMP018,Black Friday Beauty Blast 2025,Google Ads,2025-11-21,2025-11-30,20000,All,All Customers
+CMP019,Wedding Season Makeup 2025,Influencer,2025-12-01,2025-12-20,35000,Makeup,Women 25-40
+CMP020,Republic Day Glow Sale 2026,Festive Sale,2026-01-20,2026-01-28,25000,All,All Customers
+CMP021,Valentine's Glow-Up 2026,Instagram,2026-02-05,2026-02-14,,Makeup,Women 18-30
+CMP022,Weekend In-Store Bonanza 2026,In-Store Promo,2026-03-06,2026-03-15,10000,All,Existing Customers
+CMP023,Summer Sunscreen Drive 2026,Google Ads,2026-04-01,2026-04-30,150000,Skincare,All Customers
+CMP024,Mother's Day Pamper 2026,Email,2026-05-02,2026-05-10,10000,Bath & Body,Existing Customers
+CMP025,Monsoon Hair Rescue 2026,Influencer,2026-07-01,2026-07-31,40000,Haircare,Women 18-30
+CMP026,Brand Refresh OTT Campaign 2026,TV/OTT,2026-09-01,2026-09-30,505000,All,All Customers
+CMP027,Diwali Glow Fest 2026,Festive Sale,2026-10-05,2026-11-04,105000,All,All Customers
+CMP028,Black Friday Beauty Blast 2026,Google Ads,2026-11-20,2026-11-30,65000,All,All Customers
+CMP029,Wedding Season Makeup 2026,Influencer,2026-12-01,2026-12-20,,Makeup,Women 25-40
